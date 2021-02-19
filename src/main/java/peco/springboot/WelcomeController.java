@@ -16,7 +16,7 @@ public class WelcomeController {
 	}
 	@RequestMapping("/welcome")
 	public String welcome() {
-		return "Master Branch";
+		return "Developer Branch";
 		
 	}
 }
