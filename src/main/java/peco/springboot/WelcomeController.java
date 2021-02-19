@@ -16,7 +16,7 @@ public class WelcomeController {
 	}
 	@RequestMapping("/welcome")
 	public String welcome() {
-		return "Welcome to spring boot";
+		return "Master Branch";
 		
 	}
 }
